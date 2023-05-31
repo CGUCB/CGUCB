@@ -1,1 +1,1 @@
-![MasterHead](header.png)(https://github.com/CGUCB)
+![MasterHead](header.png)
