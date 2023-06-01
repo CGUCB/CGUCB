@@ -7,6 +7,8 @@
 🌱 Currently a rising Senior at the University of California, Berkeley studying Data Science (with a concentration in Applied Math & Models). Favorite coursework has been classes that delve into theory but have important, contemporary applications. I am always open to new academic papers, readings, articles, you name it! Feel free to send them over; let's start a conversation. 
 
 - ⚡ Currently Sharpening Tensorflow & Statistics Knowledge
+- 💻 Data Science Intern @ [CYQIQ](https://www.cyqiq.ai/)
+- 🌐 Backend Engineer @ [CVS Health](https://www.cvshealth.com/)
 - ☕ Certified Coffee & Espresso Enjoyer
 - 🌿 Chia Pet Enthusiast
 - 🦍 Reject Humanity, Return to Monkey 
