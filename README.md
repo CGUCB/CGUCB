@@ -8,10 +8,9 @@
 
 - ⚡ Currently Sharpening Tensorflow & Statistics Knowledge
 - 💻 Data Science Intern @ [CYQIQ](https://www.cyqiq.ai/)
-- 🌐 Backend Engineer @ [CVS Health](https://www.cvshealth.com/)
+- 🌐 Backend Engineer Intern @ [CVS Health](https://www.cvshealth.com/)
 - ☕ Certified Coffee & Espresso Enjoyer
 - 🌿 Chia Pet Enthusiast
-- 🦍 Reject Humanity, Return to Monkey 
 
 ---
 
