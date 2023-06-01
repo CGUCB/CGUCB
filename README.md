@@ -9,7 +9,7 @@
 - ⚡ Currently Sharpening Tensorflow & Statistics Knowledge
 - ☕ Certified Coffee & Espresso Enjoyer
 - 🌿 Chia Pet Enthusiast
-- 🦍 Return to Monkey 
+- 🦍 Reject Humanity, Return to Monkey 
 
 ---
 
