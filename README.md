@@ -1,13 +1,13 @@
 ## Hello All <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-### Data Scientist & Aspiring ML Engineer
+### Data Scientist & ML Engineer
 
 ---
 
 🌱 Currently a Senior at the University of California, Berkeley studying Data Science (with a concentration in Applied Math & Models). Favorite coursework has been classes that delve into theory but have important, contemporary applications. I am always open to new academic papers, readings, articles, you name it! Feel free to send them over; let's start a conversation. 
 
 - ⚡ Currently Sharpening PyTorch & Statistics Knowledge
-- ☕ Certified Coffee & Espresso Enjoyer
+- ☕ Coffee, Tea & Espresso 
 - 🌿 Chia Pet Enthusiast
 
 ---
