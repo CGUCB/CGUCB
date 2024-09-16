@@ -4,7 +4,7 @@
 
 ---
 
-🌱 Recent Graduate of the University of California, Berkeley with a degree in Data Science Honors (concentrating in Applied Math & Models) and minor in Industrial Engineering & Operations Management (IEOR). Favorite coursework has been classes that delve into theory but have important, contemporary applications. I am always open to new academic papers, readings, articles, you name it! Feel free to send them over; let's start a conversation. 
+🌱 Recent Graduate of the University of California, Berkeley with a degree in Data Science Honors (concentrating in Applied Math & Models) and minor in Industrial Engineering & Operations Research (IEOR). Favorite coursework has been classes that delve into theory but have important, contemporary applications. I am always open to new academic papers, readings, articles, you name it! Feel free to send them over; let's start a conversation. 
 
 ---
 
