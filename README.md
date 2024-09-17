@@ -4,7 +4,7 @@
 
 ---
 
-🌱 Recent Graduate of the University of California, Berkeley with a degree in Data Science Honors (concentrating in Applied Math & Models) and minor in Industrial Engineering & Operations Research (IEOR). Favorite coursework has been ones mainly focused on engineering tasks (i.e. for Data 101, we build a replica of MongoDB); these projects afford the ability to betterunderstanding the why behind software design decisions. I am always open to new academic papers, readings, articles, you name it! Feel free to send them over; let's start a conversation. 
+🌱 Recent Graduate of the University of California, Berkeley with a degree in Data Science Honors (concentrating in Applied Math & Models) and minor in Industrial Engineering & Operations Research (IEOR). Favorite coursework has been ones mainly focused on engineering tasks (i.e. for Data 101, we build a replica of MongoDB); these projects afford the ability to better understanding the _why_ behind software design decisions. I am always open to new academic papers, readings, articles, you name it! Feel free to send them over; let's start a conversation. 
 
 ---
 
